@@ -1,5 +1,7 @@
 # car-spectroscopy-detection
 
+proposal
+
 to detect airborne medical hazards such as active pathogens, using a small sensor per vehicle via GSM network connection,
 about the size of 1/4 of a smoke detector to also possibly find drugs labs, as a building protection device or buildings with active medical hazards
 
