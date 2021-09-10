@@ -1,5 +1,11 @@
 # car-spectroscopy-detection
 
+09-10-2021
+
+Noticed Amazon is using infrared imaging to detect human thermal imbalance as possible disease anomalies
+
+
+
 proposal
 
 to detect airborne medical hazards such as active pathogens, using a small sensor per vehicle via GSM network connection,
